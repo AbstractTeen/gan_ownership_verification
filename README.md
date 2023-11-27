@@ -1,6 +1,6 @@
 # GAN Ownership Verification 
 
-This repository contains the code for [What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Networks]((https://openaccess.thecvf.com/content/ICCV2023/html/Huang_What_can_Discriminator_do_Towards_Box-free_Ownership_Verification_of_Generative_ICCV_2023_paper.html)) (ICCV 2023), a complete process of ownership verification for GANs using our method.
+This repository contains the code for **[What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Networks]**(https://openaccess.thecvf.com/content/ICCV2023/html/Huang_What_can_Discriminator_do_Towards_Box-free_Ownership_Verification_of_Generative_ICCV_2023_paper.html) (ICCV 2023), a complete process of ownership verification for GANs using our method.
 
 ## Preparation
 
